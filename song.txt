@@ -1,4 +1,3 @@
 new lines new live 
 one more line was added to check the pull method
-
-C:\Users\otabek.khamdamov\git-demo
+new line added from git bash
