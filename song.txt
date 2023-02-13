@@ -6,12 +6,4 @@ good night
 good morning again
 good evening 
 some more content 
-<<<<<<< HEAD
-and here we are
-13.02.2023
-swgt
-=======
-and here we are
->>>>>>> c34da4ae2c9500ce036c5e8cf2f1639257d94ff1
-add one more line 
-hahahah
+
